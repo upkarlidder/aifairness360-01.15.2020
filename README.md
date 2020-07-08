@@ -13,7 +13,12 @@
 - [AI Fairness 360’s paper](https://arxiv.org/abs/1810.01943)
 - [Example Notebooks](https://github.com/IBM/AIF360/blob/master/examples)
 
-### Papers
+### Links from slides
+- [Translation tutorial: 21 fairness definitions and their politics](https://www.youtube.com/watch?v=wqamrPkF5kk)
+- [ProPublica article](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm)
+- [MIT grad student Joy Buolamwini - talk on bias](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms)
+
+### Papers on metrics and mitigation techniques
 - Optimized Preprocessing (Calmon et al., NIPS 2017)
 - Meta-Algorithm for Fair Classification (Celis et al., FAT* 2019)
 - Disparate Impact Remover (Feldman et al., KDD 2015)
@@ -24,6 +29,7 @@
 - Calibrated Equalized Odds Postprocessing (Pleiss et al., NIPS 2017)
 - Learning Fair Representations (Zemel et al., ICML 2013)
 - Adversarial Debiasing (Zhang et al., AIES 2018)
+
 
 ## Abstract
 
